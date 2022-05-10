@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-condo",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-condo",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/open-condo-software/mobile_cordova_authorization_plugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/open-condo-software/mobile_cordova_authorization_plugin/issues"
+  },
+  "homepage": "https://github.com/open-condo-software/mobile_cordova_authorization_plugin#readme"
+}
