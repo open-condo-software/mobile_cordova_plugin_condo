@@ -19,3 +19,11 @@ exports.closeApplication = function (success, error) {
 exports.getCurrentResident = function (success, error) {
     exec(success, error, 'Condo', 'getCurrentResident', []);
 };
+
+exports.getLaunchContext = function (success, error) {
+    exec(success, error, 'Condo', 'getLaunchContext', []);
+};
+
+exports.setInputsEnabled = function (arg0, success, error) {
+    exec(success, error, 'Condo', 'setInputsEnabled', [arg0]);
+};
